@@ -4,7 +4,7 @@ Wanna play a card game of luck with your friends, but don't have a deck of cards
 
 **Check it out here:** https://war-card-game-mn.netlify.app/
 
-![Wojna_gra_karciana](https://github.com/malaz-naquib/War-Card-Game/assets/113329798/ee26b6a9-2fd9-4770-bf86-862b18231fa5)
+![war-card-gif](https://github.com/malaz-naquib/War-Card-Game/assets/113329798/c0384fac-737b-4fbb-90ff-0510676554b2)
 
 ## Description:
 
